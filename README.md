@@ -453,26 +453,41 @@ npm test
 
 ## Fav Page
 <img width="1910" height="949" alt="Fav page" src="https://github.com/user-attachments/assets/053014ca-52fb-4991-9193-e34e38de49bf" />
+
 ## Pinned 
+
 <img width="1907" height="955" alt="pinned" src="https://github.com/user-attachments/assets/23ff1233-c3b5-4954-81d7-aaa5f09623b7" />
 ## Archived
+
 <img width="1907" height="951" alt="Archived" src="https://github.com/user-attachments/assets/00c98c53-e682-4d2d-bdfd-f218a1e958ed" />
 
 ## Trash
+
 <img width="1905" height="947" alt="Trash" src="https://github.com/user-attachments/assets/9b3a2b35-ceb8-49dc-b81f-1cf4754c5d70" />
+
 ## Templates
+
 <img width="1906" height="947" alt="templates" src="https://github.com/user-attachments/assets/ef3d0c4f-9151-45c7-b1ab-db3ae77f0f8b" />
+
 ## New Notes
+
 <img width="1914" height="949" alt="New notes" src="https://github.com/user-attachments/assets/3be217c7-5320-494e-a847-ad7c5392f83a" />
 
 ## History page
+
 <img width="1907" height="953" alt="History" src="https://github.com/user-attachments/assets/be612c94-aaa4-4373-9c0b-80e7dcb53c45" />
+
 ## Analytics Page
+
 <img width="1907" height="941" alt="Analytics" src="https://github.com/user-attachments/assets/e102c96a-a866-4496-9ab9-29baf99eabb5" />
+
 ## Reminder Page
+
 <img width="1910" height="946" alt="Reminder" src="https://github.com/user-attachments/assets/2c4d2cd9-1fb0-41cc-aaf9-48bab7daf1ba" />
 
+
 ## Settings Page
+
 <img width="1901" height="950" alt="Settinbgs" src="https://github.com/user-attachments/assets/612d90e0-16cc-4af9-8526-bbb266a9dacd" />
 
 ## Impoert / Export
@@ -480,9 +495,11 @@ npm test
 <img width="1900" height="948" alt="import export" src="https://github.com/user-attachments/assets/7e0ca4ec-b5e3-48fa-9d1d-a2e57ada5f21" />
 
 ## SearchBar
+
 <img width="1912" height="939" alt="Searchbar" src="https://github.com/user-attachments/assets/43da49a8-3110-4370-ab4a-c9ff769fb2ca" />
 
 ## Dark Mode View
+
 <img width="1903" height="946" alt="dark" src="https://github.com/user-attachments/assets/b7039a99-f861-411b-8916-909459eeaf9b" />
 
 ## 🤝 Contributing
